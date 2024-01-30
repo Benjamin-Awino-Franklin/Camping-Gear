@@ -1,0 +1,171 @@
+.navbar{
+    background-color: black;
+     width: 100%;
+    margin: auto;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    color: white;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+.navbar button{
+    text-decoration: none;
+
+
+}
+.navbar p{
+    padding: 10px 100px;
+    margin: unset;
+    display: flex;
+    justify-content: left;
+    color: white;
+}
+.form{
+    background-image: url("images/home-bg.jpg");
+    background-position: center;
+    height: 100vh;
+
+}
+.content h1{
+    text-align: center;
+    color: white;
+    font-size: 95px;
+}
+.content p{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content1 h1{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 45px;
+}
+.content1 p{
+    text-align: center;
+    font-size: 17px;
+}
+.content2{
+    padding: 0 100px;
+
+}
+.cont{
+    width: 250px;
+    height: 350px;
+    background-color: none;
+    position: absolute;
+    top: 250px;
+    left: 890px;
+    border-radius: 10px;
+    padding-left: 25px;
+}
+
+.form1{
+    width: 250px;
+    height: 350px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    border-radius: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
+.form2{
+    width: 250px;
+    height: 350px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    border-radius: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
+.form3{
+    width: 250px;
+    height: 350px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 250px;
+    left: 1100px;
+    border-radius: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
+.form1 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.form2 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.form3 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.forma{
+    width: 250px;
+    height: 350px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    border-radius: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
+.formb{
+    width: 250px;
+    height: 350px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    border-radius: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
+.formc{
+    width: 250px;
+    height: 350px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 250px;
+    left: 1100px;
+    border-radius: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
+.forma img{
+    width: 250px;
+    height: 135px;
+}
+.formb img{
+    width: 250px;
+    height: 135px;
+}
+.formc img{
+    width: 250px;
+    height: 135px;
+}
